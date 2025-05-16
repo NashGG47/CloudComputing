@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-05-16T17:30:44+00:00",
+  "text": "La Dirección General de Atención a la Infancia y la Adolescencia (DGAIA) de la Generalitat toleró que la menor que había sido víctima de una red de pederastia se fuese a vivir, a los 15 años, con un joven de 25",
+  "uri": "at://did:plc:u6mkbcgviwlbhuwqirmhcgu3/app.bsky.feed.post/3lpckm7yaop2s",
+  "source": "elpais.com",
+  "media_urls": [
+    {
+      "$type": "blob",
+      "ref": {
+        "$link": "bafkreieeknmm2dqpskmv34lazxn4kwwpkppvx3t4hav3rdbdyaqzah7khy"
+      },
+      "mimeType": "image/jpeg",
+      "size": 76459
+    }
+  ],
+  "author": {
+    "handle": "elpais.com",
+    "displayName": "EL PAÍS",
+    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:u6mkbcgviwlbhuwqirmhcgu3/bafkreidlrr3xp5jyyelnldjpzgpppz4a5lj5visirsfgfxelnxssrg6jpy@jpeg"
+  },
+  "metrics": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0
+  }
+}
